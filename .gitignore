@@ -1,0 +1,8 @@
+node_modules/
+dist/
+playwright-report/
+test-results/
+*.local
+merge_files.py
+merged.txt
+.idea
